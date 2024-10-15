@@ -1,0 +1,9 @@
+Time series prediction using RNN – stock market analysis or weather forecasting
+
+Recurrent Neural Networks (RNNs), Clearly Explained!!!:
+When you don't always have the same amount of data, like when translating different sentences from one language to another, 
+or making stock market predictions from different companies, Recurrent Neural Networks come to the rescue. 
+In this StatQuest, we'll show you how Recurrent Neural Networks work, 
+one step at a time, and then we'll show you their critical flaw that will lead us to understanding Long Short-Term Memory Networks.
+
+VIDEO LINKS:https://youtu.be/AsNTP8Kwu80?si=RlT8on-6GGnLu6LQ
