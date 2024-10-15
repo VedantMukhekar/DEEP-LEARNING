@@ -1,0 +1,18 @@
+Implement Image classification using convolutional neural networks (CNNs) for multiclass classification:
+
+Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow & Python):
+In this video we will do small image classification using CIFAR10 dataset in tensorflow. 
+We will use convolutional neural network for this image classification problem. 
+First we will train a model using simple artificial neural network and then check how the performance looks like and then we will train a CNN and see how the model accuracy improves. 
+This tutorial will help you understand why CNN is preferred over ANN for image classification. 
+
+VIDEO LINK:https://youtu.be/7HPwo4wnJeA?si=_6FyB-5Ea8_jjvk_
+
+Image Classification using CNN Keras | Full implementation:
+In this video, we will implement Image Classification using CNN Keras. We will build a Cat or Dog Classification model using CNN Keras.
+Keras is a free and open-source high-level API used for neural networks. Building a Deep Learning model in Keras is fast and easy.
+I already covered the full detailed mathematical theory behind the Convolutional Neural Network (CNN).
+If you haven't checked that playlist, then you can find its link down here.
+For now, let's first see Image Classification using CNN Keras.
+
+VIDEO LINK:https://youtu.be/J1jhfAw5Uvo?si=-nWVPKnatkj6m0S-
